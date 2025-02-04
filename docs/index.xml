@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Brice Colucci - Senior Web Developer on Brice Colucci - CV &amp; Services</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Brice Colucci - Senior Web Developer on Brice Colucci - CV &amp; Services</description>
+    <generator>Hugo -- 0.143.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Me</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h1 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h1&gt;
+&lt;p&gt;📧 &lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:brice.colucci@gmail.com&#34;&gt;brice.colucci@gmail.com&lt;/a&gt;&lt;br&gt;
+🐙 &lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/bcolucci&#34;&gt;github.com/bcolucci&lt;/a&gt;&lt;br&gt;
+💼 &lt;strong&gt;LinkedIn:&lt;/strong&gt; (add if available)&lt;/p&gt;
+&lt;p&gt;Looking forward to working with you!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;h1 id=&#34;brice-colucci---curriculum-vitae&#34;&gt;Brice Colucci - Curriculum Vitae&lt;/h1&gt;
+&lt;h2 id=&#34;-technical-skills&#34;&gt;🛠️ Technical Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Backend Development:&lt;/strong&gt; JavaScript, Node.js, GoLang, Java&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Frontend Development:&lt;/strong&gt; Vue.js, React.js, TypeScript, Redux&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Databases:&lt;/strong&gt; PostgreSQL, Firestore, MongoDB, Redis&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DevOps &amp;amp; Cloud:&lt;/strong&gt; AWS, GCP, Terraform, Ansible, Docker&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Other Interests:&lt;/strong&gt; Blockchain, Crypto Trading, Smart Contracts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-work-experience&#34;&gt;💼 Work Experience&lt;/h2&gt;
+&lt;h3 id=&#34;-senior-full-stack-developer-freelancer&#34;&gt;🚀 &lt;strong&gt;Senior Full-Stack Developer (Freelancer)&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;📅 &lt;strong&gt;Feb 2022 - Present&lt;/strong&gt; | Remote&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Consulting, architecture, refactoring, mentoring, and full-stack development.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Working on &lt;strong&gt;MyC&lt;/strong&gt; (&lt;a href=&#34;https://www.myc.doctor&#34;&gt;myc.doctor&lt;/a&gt;) – a healthcare platform (Vue.js, Node.js, Firestore, PostgreSQL).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-senior-backend-developer---omegapoint-remote&#34;&gt;🔹 &lt;strong&gt;Senior Backend Developer - OmegaPoint (Remote)&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;📅 &lt;strong&gt;2021 - 2022&lt;/strong&gt; (10 months)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Freelance Services</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/</guid>
+      <description>&lt;h1 id=&#34;my-freelance-services&#34;&gt;My Freelance Services&lt;/h1&gt;
+&lt;p&gt;I offer &lt;strong&gt;consulting and development services&lt;/strong&gt; in the following areas:&lt;/p&gt;
+&lt;h3 id=&#34;-full-stack-development&#34;&gt;🔹 &lt;strong&gt;Full-Stack Development&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Backend: Node.js, GoLang, Java&lt;/li&gt;
+&lt;li&gt;Frontend: Vue.js, React.js, TypeScript&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-software-architecture--consulting&#34;&gt;🔹 &lt;strong&gt;Software Architecture &amp;amp; Consulting&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;System architecture, scalability, and high-performance solutions.&lt;/li&gt;
+&lt;li&gt;API design &amp;amp; optimization.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-devops--cloud-solutions&#34;&gt;🔹 &lt;strong&gt;DevOps &amp;amp; Cloud Solutions&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;AWS, GCP, Terraform, Ansible&lt;/li&gt;
+&lt;li&gt;CI/CD pipelines (GitLab CI/CD, Bitbucket)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-blockchain--smart-contracts&#34;&gt;🔹 &lt;strong&gt;Blockchain &amp;amp; Smart Contracts&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ethereum, Solidity, Crypto trading tools.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📩 &lt;a href=&#34;http://localhost:1313/en/contact/&#34;&gt;Contact me now!&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
