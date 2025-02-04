@@ -3,17 +3,23 @@ title: "Brice Colucci - Senior Web Developer"
 date: 2025-02-03
 ---
 
-# Brice Colucci
+# Senior Web Developer | Software Engineer | Freelancer
 
-## Senior Web Developer | Software Engineer | Freelancer
+🔥 Senior Frackend ⚔ Developer🍍Humanist, father
 
-With **16+ years of experience** in web development, I specialize in **backend and full-stack development**, building high-performance applications and scalable systems. Passionate about functional programming, performance optimizations, and new technologies.
+---
 
-🔹 **Tech Stack:** JavaScript (16+ years), Node.js, GoLang, Java  
-🔹 **Freelance & Consulting:** Architecture, refactoring, mentoring, development  
-🔹 **DevOps Skills:** GitLab CI/CD, AWS, GCP, Terraform, Ansible  
-🔹 **Interest in Blockchain:** Smart contracts, crypto trading  
+I am a **passionate and self-driven developer** with over **16 years of experience** in **web development**, specializing in **backend and full-stack** solutions. I have a solid theoretical and practical background, combined with diverse industry experience, allowing me to **adapt quickly** and **solve complex technical challenges**.
+
+I constantly stay up to date with the **latest web technologies**, seeking performance improvements and productivity enhancements. My expertise spans **JavaScript, Golang, Java, and DevOps**, and I have a strong interest in **functional programming** and **blockchain technology**.
+
+🔹 **Core Technologies:** JavaScript (16+ years), Node.js (11+ years), Java (7+ years), GoLang (5+ years)  
+🔹 **Freelance Services:** Consulting, architecture, refactoring, mentoring, and full-stack development  
+🔹 **DevOps & Cloud:** GitLab CI/CD, AWS, GCP, Terraform, Ansible  
+🔹 **Blockchain & Crypto:** Smart contracts, crypto trading  
+
+---
 
 📄 [View My Full CV](/cv)  
-📢 [Discover My Services](/services)  
+📢 [Explore My Services](/services)  
 📩 [Get in Touch](/contact)

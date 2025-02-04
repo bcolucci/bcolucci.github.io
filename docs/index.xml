@@ -1,43 +1,78 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Brice Colucci - Senior Web Developer on Brice Colucci - CV &amp; Services</title><link>https://bcolucci.github.io/</link><description>Recent content in Brice Colucci - Senior Web Developer on Brice Colucci - CV &amp; Services</description><generator>Hugo -- 0.143.0</generator><language>en</language><lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://bcolucci.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact Me</title><link>https://bcolucci.github.io/contact/</link><pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate><guid>https://bcolucci.github.io/contact/</guid><description>&lt;h1 id="get-in-touch">Get in Touch&lt;/h1>
-&lt;p>📧 &lt;strong>Email:&lt;/strong> &lt;a href="mailto:brice.colucci@gmail.com">brice.colucci@gmail.com&lt;/a>&lt;br>
-🐙 &lt;strong>GitHub:&lt;/strong> &lt;a href="https://github.com/bcolucci">github.com/bcolucci&lt;/a>&lt;br>
-💼 &lt;strong>LinkedIn:&lt;/strong> (add if available)&lt;/p>
-&lt;p>Looking forward to working with you!&lt;/p></description></item><item><title>Curriculum Vitae</title><link>https://bcolucci.github.io/cv/</link><pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate><guid>https://bcolucci.github.io/cv/</guid><description>&lt;h1 id="brice-colucci---curriculum-vitae">Brice Colucci - Curriculum Vitae&lt;/h1>
-&lt;h2 id="-technical-skills">🛠️ Technical Skills&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Backend Development:&lt;/strong> JavaScript, Node.js, GoLang, Java&lt;/li>
-&lt;li>&lt;strong>Frontend Development:&lt;/strong> Vue.js, React.js, TypeScript, Redux&lt;/li>
-&lt;li>&lt;strong>Databases:&lt;/strong> PostgreSQL, Firestore, MongoDB, Redis&lt;/li>
-&lt;li>&lt;strong>DevOps &amp;amp; Cloud:&lt;/strong> AWS, GCP, Terraform, Ansible, Docker&lt;/li>
-&lt;li>&lt;strong>Other Interests:&lt;/strong> Blockchain, Crypto Trading, Smart Contracts&lt;/li>
-&lt;/ul>
-&lt;h2 id="-work-experience">💼 Work Experience&lt;/h2>
-&lt;h3 id="-senior-full-stack-developer-freelancer">🚀 &lt;strong>Senior Full-Stack Developer (Freelancer)&lt;/strong>&lt;/h3>
-&lt;p>📅 &lt;strong>Feb 2022 - Present&lt;/strong> | Remote&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Consulting, architecture, refactoring, mentoring, and full-stack development.&lt;/strong>&lt;/li>
-&lt;li>Working on &lt;strong>MyC&lt;/strong> (&lt;a href="https://www.myc.doctor">myc.doctor&lt;/a>) – a healthcare platform (Vue.js, Node.js, Firestore, PostgreSQL).&lt;/li>
-&lt;/ul>
-&lt;h3 id="-senior-backend-developer---omegapoint-remote">🔹 &lt;strong>Senior Backend Developer - OmegaPoint (Remote)&lt;/strong>&lt;/h3>
-&lt;p>📅 &lt;strong>2021 - 2022&lt;/strong> (10 months)&lt;/p></description></item><item><title>Freelance Services</title><link>https://bcolucci.github.io/services/</link><pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate><guid>https://bcolucci.github.io/services/</guid><description>&lt;h1 id="my-freelance-services">My Freelance Services&lt;/h1>
-&lt;p>I offer &lt;strong>consulting and development services&lt;/strong> in the following areas:&lt;/p>
-&lt;h3 id="-full-stack-development">🔹 &lt;strong>Full-Stack Development&lt;/strong>&lt;/h3>
-&lt;ul>
-&lt;li>Backend: Node.js, GoLang, Java&lt;/li>
-&lt;li>Frontend: Vue.js, React.js, TypeScript&lt;/li>
-&lt;/ul>
-&lt;h3 id="-software-architecture--consulting">🔹 &lt;strong>Software Architecture &amp;amp; Consulting&lt;/strong>&lt;/h3>
-&lt;ul>
-&lt;li>System architecture, scalability, and high-performance solutions.&lt;/li>
-&lt;li>API design &amp;amp; optimization.&lt;/li>
-&lt;/ul>
-&lt;h3 id="-devops--cloud-solutions">🔹 &lt;strong>DevOps &amp;amp; Cloud Solutions&lt;/strong>&lt;/h3>
-&lt;ul>
-&lt;li>AWS, GCP, Terraform, Ansible&lt;/li>
-&lt;li>CI/CD pipelines (GitLab CI/CD, Bitbucket)&lt;/li>
-&lt;/ul>
-&lt;h3 id="-blockchain--smart-contracts">🔹 &lt;strong>Blockchain &amp;amp; Smart Contracts&lt;/strong>&lt;/h3>
-&lt;ul>
-&lt;li>Ethereum, Solidity, Crypto trading tools.&lt;/li>
-&lt;/ul>
-&lt;p>📩 &lt;a href="https://bcolucci.github.io/contact/">Contact me now!&lt;/a>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Brice Colucci - Senior Web Developer on Brice Colucci - CV &amp; Services</title>
+    <link>https://bcolucci.github.io/</link>
+    <description>Recent content in Brice Colucci - Senior Web Developer on Brice Colucci - CV &amp; Services</description>
+    <generator>Hugo -- 0.143.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://bcolucci.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brice Colucci - Curriculum Vitae</title>
+      <link>https://bcolucci.github.io/cv/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://bcolucci.github.io/cv/</guid>
+      <description>&lt;h2 id=&#34;-technical-skills&#34;&gt;🛠️ Technical Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Backend Development:&lt;/strong&gt; JavaScript, Node.js, GoLang, Java&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Frontend Development:&lt;/strong&gt; Vue.js, React.js, TypeScript, Redux&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Databases:&lt;/strong&gt; PostgreSQL, Firestore, MongoDB, Redis&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DevOps &amp;amp; Cloud:&lt;/strong&gt; AWS, GCP, Terraform, Ansible, Docker&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Other Interests:&lt;/strong&gt; Blockchain, Crypto Trading, Smart Contracts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-work-experience&#34;&gt;💼 Work Experience&lt;/h2&gt;
+&lt;h3 id=&#34;-senior-full-stack-developer-freelancer&#34;&gt;🚀 Senior Full-Stack Developer (Freelancer)&lt;/h3&gt;
+&lt;p&gt;📅 February 2022 - Present | Remote&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Consulting, software architecture, refactoring, mentoring, and full-stack development.&lt;/li&gt;
+&lt;li&gt;Currently working on &lt;strong&gt;MyC&lt;/strong&gt; (&lt;a href=&#34;https://www.myc.doctor&#34;&gt;myc.doctor&lt;/a&gt;), a healthcare platform powered by a French startup.&lt;br&gt;
+&lt;strong&gt;Tech Stack:&lt;/strong&gt; JavaScript/TypeScript, Node.js, Vue.js, Firestore, PostgreSQL, GitLab CI, GCP.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-senior-backend-developer---omegapoint-remote&#34;&gt;🔹 Senior Backend Developer - OmegaPoint (Remote)&lt;/h3&gt;
+&lt;p&gt;📅 2021 - 2022 (10 months)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact Me</title>
+      <link>https://bcolucci.github.io/contact/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://bcolucci.github.io/contact/</guid>
+      <description>&lt;p&gt;I look forward to working with you!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;📧 &lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:brice.colucci@gmail.com&#34;&gt;brice.colucci@gmail.com&lt;/a&gt;&lt;br&gt;
+🐙 &lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/bcolucci&#34;&gt;github.com/bcolucci&lt;/a&gt;&lt;br&gt;
+💼 &lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/brice-c-947aa119/&#34;&gt;linkedin.com/in/brice-c-947aa119&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Freelance Services</title>
+      <link>https://bcolucci.github.io/services/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://bcolucci.github.io/services/</guid>
+      <description>&lt;p&gt;I offer &lt;strong&gt;consulting and development services&lt;/strong&gt; in the following areas:&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;🔹 Full-Stack Development&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Backend: Node.js, GoLang, Java&lt;/li&gt;
+&lt;li&gt;Frontend: Vue.js, React.js, TypeScript&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🔹 Software Architecture &amp;amp; Consulting&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;System architecture, scalability, and high-performance solutions.&lt;/li&gt;
+&lt;li&gt;API design &amp;amp; optimization.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🔹 DevOps &amp;amp; Cloud Solutions&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AWS, GCP, Terraform, Ansible&lt;/li&gt;
+&lt;li&gt;CI/CD pipelines (GitLab CI/CD, Bitbucket)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🔹 Blockchain &amp;amp; Smart Contracts&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ethereum, Solidity, Crypto trading tools.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;📩 &lt;a href=&#34;https://bcolucci.github.io/contact/&#34;&gt;Contact me now!&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

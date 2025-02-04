@@ -13,3 +13,24 @@ publishDir = "docs/"
     contentDir = "content/en"
     languageName = "English"
     weight = 1
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "CV"
+    url = "/cv"
+    weight = 2
+
+  [[menu.main]]
+    name = "Services"
+    url = "/services"
+    weight = 3
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 4
