@@ -14,6 +14,6 @@ With **16+ years of experience** in web development, I specialize in **backend a
 🔹 **DevOps Skills:** GitLab CI/CD, AWS, GCP, Terraform, Ansible  
 🔹 **Interest in Blockchain:** Smart contracts, crypto trading  
 
-📄 [View My Full CV](/en/cv)  
-📢 [Discover My Services](/en/services)  
-📩 [Get in Touch](/en/contact)
+📄 [View My Full CV](/cv)  
+📢 [Discover My Services](/services)  
+📩 [Get in Touch](/contact)

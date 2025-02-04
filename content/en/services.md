@@ -22,4 +22,4 @@ I offer **consulting and development services** in the following areas:
 ### 🔹 **Blockchain & Smart Contracts**
 - Ethereum, Solidity, Crypto trading tools.
 
-📩 [Contact me now!](/en/contact/)
+📩 [Contact me now!](/contact/)
