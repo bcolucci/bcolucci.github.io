@@ -8,7 +8,7 @@ date: 2025-02-03
 - **Frontend Development:** Vue.js, React.js, TypeScript, Redux
 - **Databases:** PostgreSQL, Firestore, MongoDB, Redis
 - **DevOps & Cloud:** AWS, GCP, Terraform, Ansible, Docker
-- **Blockchain:** Smart Contracts
+- and more... Contact me!
 
 ---
 

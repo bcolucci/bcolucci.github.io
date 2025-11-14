@@ -19,9 +19,6 @@ I offer **consulting and development services** in the following areas:
 - AWS, GCP, Terraform, Ansible
 - CI/CD pipelines (GitLab CI/CD, Bitbucket)
 
-🔹 Blockchain & Smart Contracts
-- Ethereum, Solidity, Crypto trading tools.
-
 ---
 
 📩 [Contact me now!](/contact)

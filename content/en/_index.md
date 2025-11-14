@@ -16,7 +16,7 @@ I constantly stay up to date with the **latest web technologies**, seeking perfo
 🔹 **Core Technologies:** JavaScript (16+ years), Node.js (11+ years), Java (7+ years), GoLang (5+ years)  
 🔹 **Freelance Services:** Consulting, architecture, refactoring, mentoring, and full-stack development  
 🔹 **DevOps & Cloud:** GitLab CI/CD, AWS, GCP, Terraform, Ansible  
-🔹 **Blockchain & Crypto:** Smart contracts, crypto trading  
+🔹 and more...
 
 ---
 
