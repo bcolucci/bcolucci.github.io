@@ -1,193 +1,94 @@
 ---
-title: "Brice Colucci - Curriculum Vitae"
-date: 2025-02-03
+title: "Experience"
+description: "Brice Colucci's experience in technical leadership, software architecture, full-stack engineering, cloud, and application modernization."
+url: "/experience/"
+aliases: ["/cv/"]
+hideMeta: true
 ---
 
-## 🛠️ Technical Skills
-- **Backend Development:** JavaScript, Node.js, GoLang, Java
-- **Frontend Development:** Vue.js, React.js, TypeScript, Redux
-- **Databases:** PostgreSQL, Firestore, MongoDB, Redis
-- **DevOps & Cloud:** AWS, GCP, Terraform, Ansible, Docker
-- and more... Contact me!
+More than 16 years across startups, agencies, consulting organizations, and established companies - from hands-on product development to CTO and team leadership responsibilities.
 
----
+## Current and recent work
 
-## 💼 Work Experience
+### Senior Full-Stack Developer - Freelance
+**February 2022 - present · Remote**
 
-### 🚀 Senior Full-Stack Developer (Freelancer)
-📅 February 2022 - Present | Remote  
-- Consulting, software architecture, refactoring, mentoring, and full-stack development.
-- Currently working on **MyC** ([myc.doctor](https://www.myc.doctor)), a healthcare platform powered by a French startup.  
-  **Tech Stack:** JavaScript/TypeScript, Node.js, Vue.js, Firestore, PostgreSQL, GitLab CI, GCP.
+Consulting, software architecture, refactoring, mentoring, and full-stack development. Current work includes [MyC](https://www.myc.doctor), a healthcare platform developed by a French startup.
 
----
+**Environment:** JavaScript, TypeScript, Node.js, Vue.js, Firestore, PostgreSQL, GitLab CI, GCP
 
-### 🔹 Senior Backend Developer - OmegaPoint (Remote)
-📅 2021 - 2022 (10 months)  
-- Developed and maintained a **high-performance financial application**.  
-  **Tech Stack:** GoLang, Node.js, GraphQL, React.
+### Senior Backend Developer - Omegapoint
+**2021 - 2022 · Remote**
 
----
+Developed and maintained a high-performance financial application using Go, Node.js, GraphQL, and React.
 
-### 🔹 Senior Backend Developer - LogMeIn (Montreal, Canada)
-📅 2018 - 2021 (3 years)  
-- Member of the **Customer Premise Support Team**, working on JavaScript, TypeScript, Node.js, React, GraphQL, GoLang.
-- Worked on the **Admin Team**, responsible for core APIs and services across the company.  
-  **Tech Stack:** Java, PostgreSQL, Angular, React, GraphQL.
+### Senior Backend Developer - LogMeIn
+**2018 - 2021 · Montreal, Canada**
 
----
+Worked within the Customer Premise Support team on JavaScript, TypeScript, Node.js, React, GraphQL, and Go, then within the Admin team on company-wide core APIs and services using Java, PostgreSQL, Angular, React, and GraphQL.
 
-### 🔹 DevOps Consultant - Skale-5 (Paris, France)
-📅 2017 - 2018 (1 year 2 months)  
-- Designed, deployed, migrated, and managed applications on AWS/GCP using Terraform and Ansible.
-- Developed GoLang-based APIs to interact with cloud services.
+### DevOps Consultant - Skale-5
+**2017 - 2018 · Paris, France**
 
----
+Designed, deployed, migrated, and operated applications on AWS and GCP with Terraform and Ansible. Also developed Go APIs for cloud-service integration.
 
-### 🔹 CTO & Senior Full-Stack Developer - Consumedias (Malta)
-📅 2017 (8 months)  
-- Developed an **emailing platform** from scratch using Node.js, Redis, and React, processing email callbacks in real time.
-- Built an **automated rental management system** to optimize rental pricing.  
-  **Tech Stack:** MEAN stack, React.
+## CTO and team leadership
 
----
+### CTO & Senior Full-Stack Developer - Consumedias
+**2017 · Malta**
 
-### 🔹 CTO & Senior Full-Stack Developer - Wuha.io (Lyon, France)
-📅 2015 - 2017 (1 year 5 months)  
-- Developed a **community search engine** integrating **semantic analysis** and **behavioral tracking** to optimize corporate search results.
+Built an email platform with real-time callback processing using Node.js, Redis, and React, as well as an automated rental-management system.
 
----
+### CTO & Senior Full-Stack Developer - Wuha.io
+**2015 - 2017 · Lyon, France**
 
-### 🔹 Team Lead & Senior Full-Stack Developer - Econocom-Osiatis
-📅 2015 
-- Architect, Scrum Master, and lead developer in **Node.js & J2EE**.
-- Conducted internal training on JavaScript, Node.js, TDD, and Design Patterns.
+Developed a community search engine combining semantic analysis and behavioral tracking to improve enterprise search results.
 
-### 🔹 Senior Full-Stack Developer - Crakmedia (Quebec, Canada)
-📅 2013 - 2015 (2 years)  
-- Developed, refactored, and optimized various web applications to improve performance and maintainability.  
-- Implemented **unit and functional test coverage** for legacy projects to ensure reliability.  
-- Conducted **R&D and internal training**, supporting teams in the architecture of new projects and test implementation.  
+### Team Lead & Senior Full-Stack Developer - Econocom-Osiatis
+**2015**
 
-**Tech Stack:** PHP, Node.js, Python, SQL, Redis, Vertica, Git, Grunt, Yeoman.
+Worked as architect, Scrum Master, and lead developer across Node.js and J2EE projects. Delivered internal training on JavaScript, Node.js, TDD, and design patterns.
 
----
+## Modernization and product engineering
 
-### 🔹 Full-Stack Developer - Neptune Internet Services (Grenoble, France)
-📅 2011 - 2013 (2 years)  
-- Developed an **Environmental Performance Index (IPE) calculation tool** for LVMH brands such as **Kenzo, Dior, Givenchy, and Guerlain**.  
-- Worked on **SaaS platforms for carbon footprint calculation and environmental reviews**, helping clients like **Butagaz, Maison du Monde, and Clarins** optimize their sustainability metrics.  
-- Developed **Java & ZK framework-based** web applications:  
-  - **Toovalu**: Carbon footprint tracking platform.  
-  - **Malice**: Ecological review system for hotels, supporting **European Eco-label** compliance.  
-- Created a **Java/ZK component library** to enhance UI/UX development efficiency.  
-- Set up and managed a **collaborative PHP/J2EE development environment** using **SVN & Trac**.  
+### Senior Full-Stack Developer - Crakmedia
+**2013 - 2015 · Quebec, Canada**
 
-**Tech Stack:** Java, ZK Framework, PHP, MySQL, MongoDB, Elasticsearch, Docker.
+Developed, refactored, and optimized web applications; introduced unit and functional test coverage to legacy projects; and supported teams through R&D, architecture guidance, and internal training.
 
----
+**Environment:** PHP, Node.js, Python, SQL, Redis, Vertica
 
-### 🔹 Freelance Full-Stack Developer
-📅 2010 - 2012 (2 years)  
-- Developed custom **PHP applications and integrations**.  
-- Built **HTML/JS/CSS** web interfaces.  
-- Provided **Linux system administration** services.  
+### Full-Stack Developer - Neptune Internet Services
+**2011 - 2013 · Grenoble, France**
 
-**Tech Stack:** PHP, JavaScript, MySQL, Unix/Linux.
+Built environmental performance and carbon-footprint SaaS products, including an Environmental Performance Index tool used by LVMH brands, Toovalu, and the Malice ecological review system. Created a reusable Java/ZK component library and supported collaborative PHP/J2EE development environments.
 
----
+### Freelance Full-Stack Developer
+**2010 - 2012**
 
-### 🔹 Full-Stack Developer - Osiatis (Grenoble, France)
-📅 2010 - 2011 (1 year)  
-- Worked for the **Departmental Fire and Rescue Department of Isère**, developing **PHP/Oracle-based applications**.  
-- Enhanced a **JavaScript UI framework** used across projects, introducing **AJAX-powered components** for better user interactions.  
+Delivered custom PHP applications and integrations, HTML/CSS/JavaScript interfaces, and Linux system administration.
 
-**Tech Stack:** PHP, Oracle, JavaScript, jQuery UI.
+## Earlier career
 
----
+- **Osiatis (2010 - 2011):** PHP/Oracle applications for the Isère fire and rescue service; AJAX components for a shared JavaScript UI framework.
+- **IRSTEA (2009 - 2010):** Zope, Plone, PHP, and JavaScript applications supporting scientific research and data visualization.
+- **Nouvelle Vague (2008 - 2009):** PHP and VB.NET applications, an AJAX document management system, XML/XSLT jobs, and a web-service library.
+- **CNRS (2008):** Java graphical-application framework developed as a final DUT project and later patented.
 
-### 🔹 Web Developer - IRSTEA (Grenoble, France)
-📅 2009 - 2010 (1 year)  
-- Developed and maintained **web applications** using **Zope/Plone/PHP**.  
-- Assisted in **scientific research projects**, providing web-based data visualization tools.  
+## Technical scope
 
-**Tech Stack:** Python (Zope/Plone), PHP, JavaScript.
+- **Architecture and backend:** Node.js, Go, Java, API design, distributed services
+- **Frontend:** TypeScript, JavaScript, Vue.js, React, Angular
+- **Data:** PostgreSQL, Firestore, MongoDB, Redis, SQL data systems
+- **Cloud and delivery:** AWS, GCP, Terraform, Ansible, Docker, CI/CD
+- **Practices:** technical strategy, mentoring, TDD, refactoring, modernization, AI-assisted engineering
 
----
+## Education, languages, and certifications
 
-### 🔹 Web Developer - Nouvelle Vague (Grenoble, France)
-📅 2008 - 2009 (1 year)  
-- Developed and maintained **PHP/VB.NET web applications**.  
-- Created a **PHP-based Document Management System (DMS)** using **AJAX & CodeIgniter**.  
-- Built **XML/XSLT processing jobs** for data transformation.  
-- Developed a **PHP/VB.NET web service library** for seamless integration with external systems.  
+- Advanced Studies in Computer Engineering, Information Systems - CNAM Grenoble, 2009 - 2011
+- Professional Bachelor's Degree in Computer Systems and Software Engineering - IUT2 Grenoble, 2008 - 2009
+- DUT in Computer Science, Software Development & Programming - IUT2 Grenoble, 2006 - 2008
+- French: native · English: fluent · Japanese: beginner
+- Training and certifications include Scrum PSM I, Kubernetes, Go, gRPC, Scala for Big Data, Rust, Hyperledger Blockchain, and functional programming
 
-**Tech Stack:** PHP, VB.NET, CodeIgniter, AJAX, XML/XSLT.
-
----
-
-### 🔹 Software Developer - CNRS (Grenoble, France)
-📅 2008 (6 months)  
-- Developed a **Java framework for graphical applications**, used internally at the **CNRS Computer Development Center**.  
-- Applied **strict Object-Oriented Programming (OOP) principles**.  
-- The framework was presented as part of my **final DUT project** and later **patented**.  
-
-**Tech Stack:** Java, Swing, OOP Design Patterns.
-
----
-
-## 🎓 Education
-
-### Conservatoire National des Arts et Métiers (CNAM) - Grenoble, France
-📅 2009 - 2011 
-**Advanced Studies in Computer Engineering – Information Systems Specialization**  
-- Code optimization and operational research (constraint satisfaction problems)  
-- Advanced database modeling (including mathematical theories, normal forms)  
-- Advanced UML modeling  
-- Engineering management  
-- Business management  
-
----
-
-### IUT2 Grenoble - France 
-📅 2008 - 2009 
-**Professional Bachelor's Degree in Computer Systems and Software Engineering**  
-- Specialization: **Internet & Multimedia Applications Development**  
-- Activities & Associations: [Program details](http://www.upmf-grenoble.fr/formation/licence-professionnelle-metiers-de-l-internet-et-des-applications-multimedia-miam--55386.htm?RH=UPMFFR_DILP)  
-
----
-
-### IUT2 Grenoble - France  
-📅 2006 - 2008  
-**DUT (University Diploma in Technology) – Software Development & Programming**  
-- Specialization: **Computer Science - Analyst Programmer**  
-- Activities & Associations: [Program details](http://www.upmf-grenoble.fr/formation/dut-informatique-grenoble-5400.htm?RH=UPMFFR_DIDU)  
-
----
-
-### Lycée Charles Gabriel Pravaz - France  
-📅 2005 - 2006  
-**High School Diploma in Industrial Science and Technology (STI) – Electrical Engineering**  
-- Graduated with honors (mention)  
-
----
-
-## 🌍 Languages
-- 🇫🇷 French: Native  
-- 🇺🇸 English: Fluent  
-- 🇯🇵 Japanese: Beginner
-
----
-
-## 📜 Certifications
-- Rust, Scala for Big Data, Go, Multithreading in Go, Go gRPC, Functional Programming in JavaScript (Udemy)
-- Kubernetes, Hyperledger Blockchain (Linux Foundation)
-- Scrum Master PSM I (Scrum.org)
-
----
-
-## 🥋 Martial Arts
-- {{< color color="#673605" >}}Brown Belt{{< /color >}} in Judo
-- {{< color color="#673605" >}}Brown Belt{{< /color >}} in Shito Ryu Karate
-- {{< color color="#1c5ed0" >}}Blue Belt{{< /color >}} in Kyokushin Karate
-- {{< color color="#e47f20" >}}Orange Belt{{< /color >}} in Koryu Uchinadi Karate
+[Discuss a project](/contact/)

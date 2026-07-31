@@ -1,74 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Brice Colucci - Senior Web Developer on Brice Colucci - CV &amp; Services</title>
-    <link>https://bcolucci.github.io/</link>
-    <description>Recent content in Brice Colucci - Senior Web Developer on Brice Colucci - CV &amp; Services</description>
+    <title>Fractional CTO &amp; Senior Full-Stack Engineer on Brice Colucci | Fractional CTO &amp; Senior Full-Stack Engineer</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Fractional CTO &amp; Senior Full-Stack Engineer on Brice Colucci | Fractional CTO &amp; Senior Full-Stack Engineer</description>
+    <image>
+      <title>Brice Colucci | Fractional CTO &amp; Senior Full-Stack Engineer</title>
+      <url>http://localhost:1313/images/colucci-cie-logo.png</url>
+      <link>http://localhost:1313/images/colucci-cie-logo.png</link>
+    </image>
     <generator>Hugo -- 0.143.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://bcolucci.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Brice Colucci - Curriculum Vitae</title>
-      <link>https://bcolucci.github.io/cv/</link>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://bcolucci.github.io/cv/</guid>
-      <description>&lt;h2 id=&#34;-technical-skills&#34;&gt;🛠️ Technical Skills&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Backend Development:&lt;/strong&gt; JavaScript, Node.js, GoLang, Java&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Frontend Development:&lt;/strong&gt; Vue.js, React.js, TypeScript, Redux&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Databases:&lt;/strong&gt; PostgreSQL, Firestore, MongoDB, Redis&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;DevOps &amp;amp; Cloud:&lt;/strong&gt; AWS, GCP, Terraform, Ansible, Docker&lt;/li&gt;
-&lt;li&gt;and more&amp;hellip; Contact me!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;-work-experience&#34;&gt;💼 Work Experience&lt;/h2&gt;
-&lt;h3 id=&#34;-senior-full-stack-developer-freelancer&#34;&gt;🚀 Senior Full-Stack Developer (Freelancer)&lt;/h3&gt;
-&lt;p&gt;📅 February 2022 - Present | Remote&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Consulting, software architecture, refactoring, mentoring, and full-stack development.&lt;/li&gt;
-&lt;li&gt;Currently working on &lt;strong&gt;MyC&lt;/strong&gt; (&lt;a href=&#34;https://www.myc.doctor&#34;&gt;myc.doctor&lt;/a&gt;), a healthcare platform powered by a French startup.&lt;br&gt;
-&lt;strong&gt;Tech Stack:&lt;/strong&gt; JavaScript/TypeScript, Node.js, Vue.js, Firestore, PostgreSQL, GitLab CI, GCP.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;-senior-backend-developer---omegapoint-remote&#34;&gt;🔹 Senior Backend Developer - OmegaPoint (Remote)&lt;/h3&gt;
-&lt;p&gt;📅 2021 - 2022 (10 months)&lt;/p&gt;</description>
+      <title>Experience</title>
+      <link>http://localhost:1313/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/</guid>
+      <description>Brice Colucci&amp;#39;s experience in technical leadership, software architecture, full-stack engineering, cloud, and application modernization.</description>
     </item>
     <item>
-      <title>Contact Me</title>
-      <link>https://bcolucci.github.io/contact/</link>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://bcolucci.github.io/contact/</guid>
-      <description>&lt;p&gt;I look forward to working with you!&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;📧 &lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:brice.colucci@gmail.com&#34;&gt;brice.colucci@gmail.com&lt;/a&gt;&lt;br&gt;
-🐙 &lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/bcolucci&#34;&gt;github.com/bcolucci&lt;/a&gt;&lt;br&gt;
-💼 &lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/brice-c-947aa119/&#34;&gt;linkedin.com/in/brice-c-947aa119&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Let&#39;s Discuss Your Technical Challenge</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Contact Brice Colucci about fractional CTO support, software architecture, full-stack delivery, or legacy modernization.</description>
     </item>
     <item>
-      <title>My Freelance Services</title>
-      <link>https://bcolucci.github.io/services/</link>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://bcolucci.github.io/services/</guid>
-      <description>&lt;p&gt;I offer &lt;strong&gt;consulting and development services&lt;/strong&gt; in the following areas:&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;🔹 Full-Stack Development&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Backend: Node.js, GoLang, Java&lt;/li&gt;
-&lt;li&gt;Frontend: Vue.js, React.js, TypeScript&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🔹 Software Architecture &amp;amp; Consulting&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;System architecture, scalability, and high-performance solutions.&lt;/li&gt;
-&lt;li&gt;API design &amp;amp; optimization.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🔹 DevOps &amp;amp; Cloud Solutions&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;AWS, GCP, Terraform, Ansible&lt;/li&gt;
-&lt;li&gt;CI/CD pipelines (GitLab CI/CD, Bitbucket)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;📩 &lt;a href=&#34;https://bcolucci.github.io/contact/&#34;&gt;Contact me now!&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Technical Leadership &amp; Engineering Services</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/</guid>
+      <description>Flexible senior support for product delivery, architecture, engineering teams, and application modernization.</description>
     </item>
   </channel>
 </rss>

@@ -1,12 +1,47 @@
 baseURL = "https://bcolucci.github.io/"
 languageCode = "en-us"
-title = "Brice Colucci - CV & Services"
+title = "Brice Colucci | Fractional CTO & Senior Full-Stack Engineer"
 theme = "PaperMod"
 publishDir = "docs/"
+enableRobotsTXT = true
 
 [params]
+  env = "production"
   author = "Brice Colucci"
-  description = "Senior Web Developer - Portfolio & Services"
+  description = "Fractional CTO and senior full-stack engineer helping companies launch products, strengthen engineering teams, and modernize complex applications."
+  keywords = [
+    "Fractional CTO",
+    "Senior Full-Stack Engineer",
+    "Software Architecture",
+    "Technical Leadership",
+    "Legacy Modernization",
+    "AI-Assisted Software Development",
+    "Freelance Software Engineer Europe"
+  ]
+  images = ["/images/colucci-cie-logo.png"]
+  defaultTheme = "light"
+  disableThemeToggle = true
+  disableScrollToTop = false
+  hideMeta = true
+
+  [params.assets]
+    favicon = "/favicon.svg"
+    favicon16x16 = "/favicon.svg"
+    favicon32x32 = "/favicon.svg"
+    apple_touch_icon = "/favicon.svg"
+    safari_pinned_tab = "/brand-mark.svg"
+    theme_color = "#182636"
+    msapplication_TileColor = "#182636"
+
+  [params.schema]
+    publisherType = "Person"
+    sameAs = [
+      "https://github.com/bcolucci",
+      "https://www.linkedin.com/in/brice-c-947aa119/"
+    ]
+
+  [params.footer]
+    hideCopyright = false
 
 [languages]
   [languages.en]
@@ -16,21 +51,30 @@ publishDir = "docs/"
 
 [menu]
   [[menu.main]]
-    name = "Home"
-    url = "/"
+    name = "Expertise"
+    url = "/#services"
     weight = 1
 
   [[menu.main]]
-    name = "CV"
-    url = "/cv"
+    name = "Selected work"
+    url = "/#work"
     weight = 2
 
   [[menu.main]]
-    name = "Services"
-    url = "/services"
+    name = "Experience"
+    url = "/experience/"
     weight = 3
 
   [[menu.main]]
-    name = "Contact"
-    url = "/contact"
+    name = "About"
+    url = "/#about"
     weight = 4
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = false

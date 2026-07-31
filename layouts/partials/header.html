@@ -1,0 +1,15 @@
+<a class="skip-link" href="#main-content">Skip to content</a>
+<header class="site-header">
+  <nav class="site-nav" aria-label="Primary navigation">
+    <a class="brand" href="/" aria-label="Colucci and Company - Home">
+      <img src="/brand-mark.svg" alt="" width="38" height="32">
+      <span>Colucci <i>&amp;</i> Cie</span>
+    </a>
+    <ul id="menu">
+      {{- range site.Menus.main }}
+      <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+      {{- end }}
+    </ul>
+  </nav>
+</header>
+

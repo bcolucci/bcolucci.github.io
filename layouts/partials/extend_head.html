@@ -1,0 +1,23 @@
+{{- if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "Colucci & Cie",
+  "url": "{{ site.Home.Permalink }}",
+  "founder": {
+    "@type": "Person",
+    "name": "Brice Colucci",
+    "jobTitle": "Fractional CTO and Senior Full-Stack Engineer",
+    "url": "{{ site.Home.Permalink }}",
+    "sameAs": [
+      "https://github.com/bcolucci",
+      "https://www.linkedin.com/in/brice-c-947aa119/"
+    ]
+  },
+  "areaServed": "Europe",
+  "description": "{{ site.Params.description }}"
+}
+</script>
+{{- end }}
+

@@ -1,0 +1,28 @@
+<footer class="site-footer">
+  <div>
+    <a class="footer-brand" href="/">Colucci &amp; Cie</a>
+    <p>Technical leadership and senior software engineering.</p>
+  </div>
+  <div class="footer-links" aria-label="Contact links">
+    <a href="mailto:brice.colucci@gmail.com">Email</a>
+    <a href="https://www.linkedin.com/in/brice-c-947aa119/" rel="me">LinkedIn</a>
+    <a href="https://github.com/bcolucci" rel="me">GitHub</a>
+  </div>
+  <p class="copyright">© {{ now.Year }} Brice Colucci</p>
+</footer>
+
+<a href="#top" aria-label="Back to top" title="Back to top" class="top-link" id="top-link">
+  <span aria-hidden="true">↑</span>
+</a>
+
+<script>
+  const topLink = document.getElementById('top-link');
+  const updateTopLink = () => {
+    const visible = window.scrollY > 700;
+    topLink.style.visibility = visible ? 'visible' : 'hidden';
+    topLink.style.opacity = visible ? '1' : '0';
+  };
+  updateTopLink();
+  window.addEventListener('scroll', updateTopLink, { passive: true });
+</script>
+
