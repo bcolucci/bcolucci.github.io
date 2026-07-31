@@ -2,7 +2,6 @@ baseURL = "https://bcolucci.github.io/"
 languageCode = "en-us"
 title = "Brice Colucci | Fractional CTO & Senior Full-Stack Engineer"
 theme = "PaperMod"
-publishDir = "docs/"
 enableRobotsTXT = true
 
 [params]
