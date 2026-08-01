@@ -8,6 +8,8 @@ Whether you are shaping a new product, supporting an engineering team, or decidi
 
 ## Get in touch
 
+**Introductory call:** [Choose a time on Calendly](https://calendly.com/brice-colucci/brice-colucci-contra-call)
+
 **Email:** [brice.colucci@gmail.com](mailto:brice.colucci@gmail.com)
 
 **LinkedIn:** [linkedin.com/in/brice-c-947aa119](https://www.linkedin.com/in/brice-c-947aa119/)
