@@ -1,19 +1,19 @@
 ---
 title: "Experience"
-description: "Brice Colucci's experience in technical leadership, software architecture, full-stack engineering, cloud, and application modernization."
+description: "Brice Colucci's experience in fractional CTO leadership, scale-up architecture, full-stack engineering, agentic AI workflows, cloud, and application modernization."
 url: "/experience/"
 aliases: ["/cv/"]
 hideMeta: true
 ---
 
-More than 16 years across startups, agencies, consulting organizations, and established companies - from hands-on product development to CTO and team leadership responsibilities.
+More than 16 years across startups, agencies, consulting organizations, and multinational companies—from hands-on product engineering to CTO, scale-up, and team leadership responsibilities.
 
 ## Current and recent work
 
-### Senior Full-Stack Developer - Freelance
+### Fractional CTO & Senior Full-Stack Engineer - Colucci & Cie
 **February 2022 - present · Remote**
 
-Consulting, software architecture, refactoring, mentoring, and full-stack development. Current work includes [MyC](https://www.myc.doctor), a healthcare platform developed by a French startup.
+Consulting, technical strategy, software architecture, refactoring, mentoring, training, and hands-on full-stack development for products at different stages of growth. Current work includes [MyC](https://www.myc.doctor), a healthcare platform developed by a French startup.
 
 **Environment:** JavaScript, TypeScript, Node.js, Vue.js, Firestore, PostgreSQL, GitLab CI, GCP
 
@@ -81,7 +81,15 @@ Delivered custom PHP applications and integrations, HTML/CSS/JavaScript interfac
 - **Frontend:** TypeScript, JavaScript, Vue.js, React, Angular
 - **Data:** PostgreSQL, Firestore, MongoDB, Redis, SQL data systems
 - **Cloud and delivery:** AWS, GCP, Terraform, Ansible, Docker, CI/CD
-- **Practices:** technical strategy, mentoring, TDD, refactoring, modernization, AI-assisted engineering
+- **Leadership and scale-up:** technical strategy, architecture reviews, team organization, mentoring, hiring support, delivery improvement
+- **Practices:** TDD, refactoring, modernization, observability, agentic and AI-augmented engineering
+
+## Training and knowledge sharing
+
+- Designed and delivered internal training at Econocom on JavaScript, Node.js, functional programming, unit/functional/integration testing, TDD, and advanced design patterns
+- Shared GraphQL practices through Lunch & Learn sessions at LogMeIn
+- Presented Go and AWS Lambda in Go at community meetups while working with Skale-5
+- Regular mentoring and architecture support across consulting and product teams
 
 ## Education, languages, and certifications
 
@@ -89,6 +97,8 @@ Delivered custom PHP applications and integrations, HTML/CSS/JavaScript interfac
 - Professional Bachelor's Degree in Computer Systems and Software Engineering - IUT2 Grenoble, 2008 - 2009
 - DUT in Computer Science, Software Development & Programming - IUT2 Grenoble, 2006 - 2008
 - French: native · English: fluent · Japanese: beginner
-- Training and certifications include Scrum PSM I, Kubernetes, Go, gRPC, Scala for Big Data, Rust, Hyperledger Blockchain, and functional programming
+- **Scrum.org:** Professional Scrum Master I (PSM I), 2018
+- **The Linux Foundation / edX:** Introduction to Kubernetes; Blockchain for Business—Introduction to Hyperledger Technologies, 2018
+- **Udemy:** Scala for Big Data; Multithreading Programming with Go; Go: The Complete Developer's Guide; gRPC Golang Master Class; Java and JavaScript functional programming, 2020
 
 [Discuss a project](/contact/)

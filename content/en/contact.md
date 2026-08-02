@@ -1,10 +1,10 @@
 ---
 title: "Let's Discuss Your Technical Challenge"
-description: "Contact Brice Colucci about fractional CTO support, software architecture, full-stack delivery, or legacy modernization."
+description: "Contact Brice Colucci about fractional CTO support, scale-up architecture, agentic engineering workflows, full-stack delivery, or legacy modernization."
 hideMeta: true
 ---
 
-Whether you are shaping a new product, supporting an engineering team, or deciding how to modernize an existing application, a short conversation is usually the best place to start.
+Whether you are shaping a new product, preparing for growth, improving an engineering team, or deciding how to modernize an existing application, a short conversation is usually the best place to start.
 
 ## Get in touch
 

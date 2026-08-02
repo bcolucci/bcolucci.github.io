@@ -1,4 +1,4 @@
 ---
-title: "Fractional CTO & Senior Full-Stack Engineer"
-description: "Technical leadership, product development, and pragmatic modernization for startups and established companies."
+title: "Fractional CTO & AI-Augmented Engineering Leader"
+description: "Hands-on technical leadership for companies launching, modernizing, and scaling software products."
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Technical Leadership & Engineering Services"
-description: "Flexible senior support for product delivery, architecture, engineering teams, and application modernization."
+title: "Technical Leadership, Scale-up & Agentic Engineering"
+description: "Flexible senior support for product delivery, scale-up architecture, engineering teams, agentic workflows, and application modernization."
 url: "/services/"
 aliases: ["/expertise/"]
 hideMeta: true
@@ -18,13 +18,14 @@ Senior technical leadership adapted to the stage and reality of your company.
 - Hiring support and technical assessment
 - Communication between product, business, and engineering
 
-## Early-Stage Products & POCs
+## Product & Scale-up Engineering
 
-Turn an idea or uncertain product direction into something concrete enough to validate.
+Turn an idea into a product, or help an existing product and team absorb their next stage of growth.
 
 - Product and technical discovery
 - POCs, prototypes, and MVP delivery
-- Technical foundations that can evolve with the product
+- Architecture and technical foundations that can evolve with the business
+- Delivery bottlenecks, reliability, observability, and operational readiness
 - Fast feedback loops and deliberately managed trade-offs
 
 ## Legacy Application Modernization
@@ -45,12 +46,12 @@ Hands-on engineering support across frontend, backend, APIs, data, and cloud inf
 - Complex feature delivery and problem solving
 - Backend, frontend, database, and infrastructure work
 
-## AI-Accelerated Engineering
+## Agentic & AI-Augmented Engineering
 
-Use AI where it genuinely improves the work, while keeping experienced human judgment in control.
+Use AI where it genuinely improves engineering work, while keeping experienced human judgment and accountability in control.
 
-- AI-assisted development workflows and codebase analysis
-- Internal automation and developer productivity
+- Coding agents for codebase analysis, implementation, testing, refactoring, documentation, and automation
+- Team workflows that improve speed without weakening review, security, or maintainability
 - Responsible adoption of AI tools within engineering teams
 - Product AI features when they solve a real user problem
 

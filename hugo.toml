@@ -1,20 +1,21 @@
 baseURL = "https://bcolucci.github.io/"
 languageCode = "en-us"
-title = "Brice Colucci | Fractional CTO & Senior Full-Stack Engineer"
+title = "Brice Colucci | Fractional CTO & AI-Augmented Engineering Leader"
 theme = "PaperMod"
 enableRobotsTXT = true
 
 [params]
   env = "production"
   author = "Brice Colucci"
-  description = "Fractional CTO and senior full-stack engineer helping companies launch products, strengthen engineering teams, and modernize complex applications."
+  description = "Fractional CTO and hands-on engineering leader helping companies launch, modernize, and scale software products with pragmatic architecture and agentic AI workflows."
   keywords = [
     "Fractional CTO",
+    "Scale-up Engineering",
     "Senior Full-Stack Engineer",
     "Software Architecture",
     "Technical Leadership",
     "Legacy Modernization",
-    "AI-Assisted Software Development",
+    "Agentic AI Software Development",
     "Freelance Software Engineer Europe"
   ]
   images = ["/images/colucci-cie-logo.png"]
