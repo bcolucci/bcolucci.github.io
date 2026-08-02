@@ -107,6 +107,7 @@ button:focus-visible {
   gap: 27px;
   margin: 0;
   padding: 0;
+  overflow: visible;
   list-style: none;
   white-space: nowrap;
 }
@@ -880,8 +881,15 @@ button:focus-visible {
   #menu {
     gap: 20px;
     margin-left: auto;
-    padding: 0;
+    margin-bottom: -8px;
+    padding: 0 0 8px;
     overflow-x: auto;
+    overflow-y: hidden;
+    scrollbar-width: none;
+  }
+
+  #menu::-webkit-scrollbar {
+    display: none;
   }
 
   #menu li:nth-child(2),
