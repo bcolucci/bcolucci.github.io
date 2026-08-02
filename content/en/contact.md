@@ -20,4 +20,4 @@ Whether you are shaping a new product, preparing for growth, improving an engine
 
 If possible, share the product or technical context, the main constraint, and the kind of support you are considering. A polished specification is not required.
 
-I am available for remote engagements with teams across Europe.
+I am based in Plovdiv, Bulgaria, and work exclusively through remote engagements with teams across Europe and beyond.

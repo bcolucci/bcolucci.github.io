@@ -11,7 +11,7 @@ More than 16 years across startups, agencies, consulting organizations, and mult
 ## Current and recent work
 
 ### Fractional CTO & Senior Full-Stack Engineer - Colucci & Cie
-**February 2022 - present · Remote**
+**February 2022 - present · Plovdiv, Bulgaria · Remote only**
 
 Consulting, technical strategy, software architecture, refactoring, mentoring, training, and hands-on full-stack development for products at different stages of growth. Current work includes [MyC](https://www.myc.doctor), a healthcare platform developed by a French startup.
 
