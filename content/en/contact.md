@@ -12,6 +12,10 @@ Whether you are shaping a new product, preparing for growth, improving an engine
 
 **Email:** [brice.colucci@gmail.com](mailto:brice.colucci@gmail.com)
 
+**Phone:** +359 892 993 870
+
+**Address:** ул. Севастопол 29 ап. 1 / 29 Sevastopol St. Apt. 1 · 4002 Пловдив / Plovdiv · Bulgaria
+
 **LinkedIn:** [linkedin.com/in/brice-c-947aa119](https://www.linkedin.com/in/brice-c-947aa119/)
 
 **GitHub:** [github.com/bcolucci](https://github.com/bcolucci)
